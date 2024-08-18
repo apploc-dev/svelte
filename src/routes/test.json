@@ -1,0 +1,12 @@
+{
+    "EN": {
+        "new_key": "Hello, world!",
+        "english": "English",
+        "ukrainian": "Ukrainian"
+    },
+    "UK": {
+        "new_key": "Привіт, мир!",
+        "english": "Англійська",
+        "ukrainian": "Українська"
+    }
+}
