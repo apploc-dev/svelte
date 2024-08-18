@@ -1,5 +1,5 @@
 {
-    "name": "apploc-svelte",
+    "name": "@apploc/svelte",
     "version": "0.0.1",
     "scripts": {
         "dev": "vite dev",
@@ -44,6 +44,5 @@
     "svelte": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "type": "module",
-    "author": "kd3n1z",
     "repository": "https://github.com/apploc-dev/svelte"
 }
