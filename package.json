@@ -44,5 +44,6 @@
     "svelte": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "type": "module",
-    "repository": "https://github.com/apploc-dev/svelte"
+    "repository": "https://github.com/apploc-dev/svelte",
+    "license": "Apache-2.0"
 }
