@@ -44,6 +44,13 @@
     "svelte": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "type": "module",
-    "repository": "https://github.com/apploc-dev/svelte",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/apploc-dev/svelte/issues"
+    },
+    "homepage": "https://github.com/apploc-dev/svelte#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/apploc-dev/svelte.git"
+    }
 }
