@@ -1,8 +1,5 @@
 <script lang="ts">
-    import { loadLocalizations, setLocalization, LocalizedText } from '$lib/index.js';
-    import test from './test.json';
-
-    loadLocalizations(test);
+    import { setLocalization, LocalizedText } from '$lib/index.js';
 </script>
 
 <div>
