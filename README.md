@@ -45,11 +45,11 @@ Use the **LocalizedText** component to display text in the current language:
     import { LocalizedText } from '@apploc/svelte';
 </script>
 
-<h1>
+<div>
     <h1>
         <LocalizedText key="new_key" />
     </h1>
-</h1>
+</div>
 ```
 
 ### Switching Localizations
